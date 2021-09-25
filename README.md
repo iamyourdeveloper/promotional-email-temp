@@ -1,3 +1,3 @@
 # promotional-email-temp
-Link to hostes example:
+Link to hosted example:
 https://promotional-email-temp.netlify.app/
